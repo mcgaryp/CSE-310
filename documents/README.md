@@ -1,0 +1,1 @@
+This folder contains the course's assignment templates.
