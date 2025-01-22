@@ -78,3 +78,5 @@ Choose Your Own Adventure*
 Based on your responses in the survey above, write a plan below to improve one behavior starting at the beginning of this course.
 
 <!-- Write your plan here -->
+
+<!-- Create this Markdown to a PDF and submit it. In visual studio code you can convert this to a pdf with any one of the extensions. -->
