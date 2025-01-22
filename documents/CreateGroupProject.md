@@ -36,7 +36,7 @@ Assign roles to each team member. If you have fewer than 6 people, then some tea
 |Configuration Manager| |	
 |Documentation Manager| |
 
-### Create Accounts with JIRA
+### Create Accounts with Github
 Each member of your team should create an account on [Github](https://www.github.com). The team member assigned to be the Project Manager should create a Github Project for the team. Every team member should be invited to collaborate on the Project. You must also invite your teacher to collaborate. In the project you should include a board that shows at minimum the following states: Ready, In Progress, Reviewing, Done.
  
 As a team, start to draft issues based on your understanding of the team project.  Include tasks related to planning, researching, implementing requirements, and testing.  Researching includes anything that you do not currently know how to do as well as the creation of prototypes. The Project Manager should maintain this Project board throughout the semester.  You will need to add more Issuesand move existing Issues to different columns as the project progresses.  
