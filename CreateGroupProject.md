@@ -33,8 +33,8 @@ Assign roles to each team member. If you have fewer than 6 people, then some tea
 |Project Manager| |
 |Graphic Designer| |
 |Quality Assurance| |
-|Configuration Manager| |	
-|Documentation Manager| |
+|DevOps| |	
+|Scrum Master| |
 
 ### Create Accounts with Github
 Each member of your team should create an account on [Github](https://www.github.com). The team member assigned to be the Project Manager should create a Github Project for the team. Every team member should be invited to collaborate on the Project. You must also invite your teacher to collaborate. In the project you should include a board that shows at minimum the following states: Ready, In Progress, Reviewing, Done.
