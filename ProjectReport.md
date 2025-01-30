@@ -2,7 +2,9 @@
 ## CSE 310 – Applied Programming
 
 Unique Team Name: <!-- Enter Team Name Here -->
+
 Your Name: <!-- Enter Your Name Here -->
+
 Team Member Names:
 - <!-- Enter team members as a bulleted list here -->
 
@@ -12,12 +14,12 @@ Copy the link to your [Github Repository](<!-- Insert Link Here -->)
 ### Structure
 Complete the following checklist to make sure you completed all parts of the team project.  Mark your response with **Yes** or **No**.  If the answer is **No** then additionally describe what was preventing you from completing this step.
 
-| Question | Your Team Response |
-|-|-|
-| Did you use the correct README.md template from the Team Project Description document in I-Learn? | |
-| Did you completely populate the README.md template? | |
+| Question                                                                            | Your Team Response |
+|--------------------------------------------------------------------------------------------------------|-|
+| Did you use the correct README.md template from the Team Project Description document in I-Learn?      | |
+| Did you completely populate the README.md template?                                                    | |
 | Did you publish the code with the README.md (in the top-level folder) into a public GitHub repository? | |
-| Did you include useful comments in your code? | |
+| Did you include useful comments in your code?                                                          | |
 
 ### Requirement Completion
 List all of your project requirements from your Project Plan below (add more rows if needed) and indicate if you have completed them.  Mark your response with **Yes** or **No**.  If the answer is **No** then additionally describe what was preventing you from completing this requirement.
