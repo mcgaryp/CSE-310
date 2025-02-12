@@ -3,7 +3,7 @@
 
 |Name|Date|Teacher|
 |-|-|-|
-| | ||  
+| | | |  
 
 ### Provide Github Repo Link
 [GitHub Repository](<!-- Paste Link Here -->)
@@ -23,7 +23,7 @@ Complete the following checklist to make sure you completed all parts of the mod
 ### How many hours did you spend on this assignment?
    Include all time including planning, researching, implementation, troubleshooting, documentation, video production, and publishing.
   
-  <!-- Enter Hours Here -->
+<!-- Enter Hours Here -->
 |Task           |Hours|
 |---------------|-|
 |Personal Module| |
