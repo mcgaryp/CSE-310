@@ -10,6 +10,7 @@ Copy the link to your [Github Repository](<!-- Insert Link Here -->)
 
 ### Module
 Mark an **X** next to the module you completed
+
 |Module                   | |Language                  | |
 |-------------------------|-|--------------------------|-|
 |Cloud Databases          | | Java                     | |
