@@ -10,6 +10,7 @@ At a high level, describe the software you plan to create that will fulfill the 
 
 ### Module
 Mark an **X** next to the module you are planning
+
 |Module                   | |Language                  | |
 |-------------------------|-|--------------------------|-|
 |Cloud Databases          | | Java                     | |
