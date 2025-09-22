@@ -6,7 +6,7 @@
 | | | |
 
 ### Software Description 
-At a high level, describe the software you plan to create that will fulfill the requirements of this module.  This may change as you learn more about the technology or language you are learning.
+<!-- At a high level, describe the software you plan to create that will fulfill the requirements of this module.  This may change as you learn more about the technology or language you are learning. -->
 
 ### Module
 Mark an **X** next to the module you are planning
